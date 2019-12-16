@@ -14,7 +14,7 @@ const App = () => (
       <About />
     </Route>
     <Route  path='/contact'>
-      <Contact />
+      <Contact/>
     </Route>
   </div>
 );
